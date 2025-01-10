@@ -9,6 +9,8 @@ Python,
 Statistical Analysis Methods, and
 Presentation Skills.
 
+I have compiled projects I have completed while completing my certificate to showcase what I have learned and what I can do.
+
 I come from a scientific research background collecting, analyzing, and presenting data I have collected from experiments I have run.
 I am eager and quick to learn new things.
 I love being challenged and I hate being idle.
