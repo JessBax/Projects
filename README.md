@@ -4,6 +4,7 @@ I have just completed my certificate in Data Analysis from Turning College and e
 In completing my certificate I have learned:
 Excel,
 SQL,
+Tableau (https://public.tableau.com/app/profile/jessica.baxter/vizzes),
 Python,
 Statistical Analysis Methods, and
 Presentation Skills.
